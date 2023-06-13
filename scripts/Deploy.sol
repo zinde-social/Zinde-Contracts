@@ -10,7 +10,7 @@ import "../contracts/upgradeability/TransparentUpgradeableProxy.sol";
 
 contract Deploy is Script {
     // update admin address before deployment
-    address public admin = address(0x713Ba8985dF91249b9e4CD86DD9eF62f8c8ddBC6);
+    address public admin = address(0xfA839628b0174C2C48d4fe7e63dd79aE9e1e3aB1);
     string public constant WEB3_ENTRY_NFT_NAME = "Web3 Entry Character";
     string public constant WEB3_ENTRY_NFT_SYMBOL = "WEC";
     string public constant LINK_LIST_NFT_NAME = "Link List Token";
